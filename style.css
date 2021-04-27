@@ -86,7 +86,8 @@ div {
   color: #fff;
   text-shadow: 2px 2px #e6b800;
   position: relative;
-  left: 40px;
+  left: 60px;
+  top: 30px;
 }
 
 #img4 {
@@ -124,8 +125,8 @@ div {
 
 #img5 {
   position: absolute;
-  top: 320px;
-  left: 300px;
+  top: 340px;
+  left: 290px;
   z-index: -1;
   width: 70px;
 }
